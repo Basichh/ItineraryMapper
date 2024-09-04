@@ -1,0 +1,12 @@
+# Ignore Python environment
+.venv/
+
+# Ignore IDE files
+.idea/
+*.pyc
+*.pyo
+__pycache__/
+*.log
+
+# Ignore OS-specific files
+.DS_Store
